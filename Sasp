@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SASP - Manuel Officiel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>San Andreas State Police</h1>
+    <p>Manuel Officiel – Serveur GTA RP</p>
+</header>
+
+<nav>
+    <a href="#intro">Introduction</a>
+    <a href="#grades">Grades</a>
+    <a href="#patrouille">Patrouille</a>
+    <a href="#force">Usage de la force</a>
+    <a href="#poursuite">Poursuites</a>
+    <a href="#arrestation">Arrestations</a>
+    <a href="#discipline">Discipline</a>
+</nav>
+
+<section id="intro">
+    <h2>Introduction</h2>
+    <p>
+        Le San Andreas State Police (SASP) est chargé de faire respecter la loi,
+        d’assurer la sécurité des citoyens et de garantir un RP immersif et réaliste.
+    </p>
+    <ul>
+        <li>Priorité au RP avant le win</li>
+        <li>Respect des civils et des autres services</li>
+        <li>Fair-play et Value of Life obligatoires</li>
+    </ul>
+</section>
+
+<section id="grades">
+    <h2>Hiérarchie & Grades</h2>
+    <ul>
+        <li><strong>Cadet</strong> – En formation</li>
+        <li><strong>Trooper</strong> – Agent opérationnel</li>
+        <li><strong>Senior Trooper</strong> – Agent confirmé</li>
+        <li><strong>Sergeant</strong> – Supervision terrain</li>
+        <li><strong>Lieutenant</strong> – Commandement intermédiaire</li>
+        <li><strong>Captain</strong> – Direction</li>
+    </ul>
+</section>
+
+<section id="patrouille">
+    <h2>Patrouille & Comportement</h2>
+    <ul>
+        <li>Radio claire et disciplinée</li>
+        <li>Respect du code de la route en patrouille normale</li>
+        <li>Interaction RP développée avec les civils</li>
+        <li>RP blessures et fatigue obligatoire</li>
+    </ul>
+</section>
+
+<section id="force">
+    <h2>Usage de la Force</h2>
+    <ol>
+        <li>Présence & dialogue</li>
+        <li>Ordres verbaux</li>
+        <li>Contrôle physique</li>
+        <li>Taser / LBD</li>
+        <li>Force létale (dernier recours)</li>
+    </ol>
+    <p>
+        Toute utilisation de la force doit être <strong>justifiée RP</strong> et proportionnée.
+    </p>
+</section>
+
+<section id="poursuite">
+    <h2>Poursuites</h2>
+    <ul>
+        <li>Poursuite engagée uniquement pour motif RP valable</li>
+        <li>PIT autorisé sur validation commandement</li>
+        <li>Spike strip autorisé si zone sécurisée</li>
+        <li>Abandon possible si danger RP trop élevé</li>
+    </ul>
+</section>
+
+<section id="arrestation">
+    <h2>Arrestations</h2>
+    <ul>
+        <li>Interpellation claire et annoncée</li>
+        <li>Menottage RP</li>
+        <li>Fouille RP cohérente</li>
+        <li>Lecture des droits RP</li>
+    </ul>
+</section>
+
+<section id="discipline">
+    <h2>Discipline Interne</h2>
+    <ul>
+        <li>Avertissement RP</li>
+        <li>Suspension</li>
+        <li>Rétrogradation</li>
+        <li>Renvoi du SASP</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© San Andreas State Police – Manuel RP</p>
+</footer>
+
+</body>
+</html>
